@@ -1,6 +1,6 @@
-# Flutter: Comunicação Web API com Dio
+# Flutter: Testes automatizados de unidade, widgets e dublês
 
-O projeto Listin é um gerenciador de listas de compras para que você possa planejar sua feira e, no supermercado, possa anotar quanto já gastou para evitar surpresas na hora do caixa!
+O projeto é um gerenciador de listas de compras para que você possa planejar sua feira e, no supermercado, possa anotar quanto já gastou para evitar surpresas na hora do caixa!
 
 ### Tópicos abordados no projeto:
 
