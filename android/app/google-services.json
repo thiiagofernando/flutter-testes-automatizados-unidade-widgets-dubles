@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527340748094",
+    "project_id": "listin-e54a5",
+    "storage_bucket": "listin-e54a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527340748094:android:83873e6ef06130d03c406f",
+        "android_client_info": {
+          "package_name": "lima.ricarth.flutter_listin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEeb8CjFGNCeTnjztL_jw64m0F0CgnT1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
